@@ -24,7 +24,7 @@ PRODUCT_CHARACTERISTICS := phone
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="a04exx-user 12 SP1A.210812.016 A042FXXSAEXJ3 release-keys" \
-    BuildFingerprint=samsung/a04exx/a04e:12/SP1A.210812.016/A042FXXSAEXJ3:user/release-keys \
+    BuildDesc="a04exx-user 14 UP1A.231005.007 A042FXXSCEYG2 release-keys" \
+    BuildFingerprint=samsung/a04exx/a04e:12/SP1A.210812.016/A042FXXSCEYG2:user/release-keys \
     DeviceProduct=a04exx \
     SystemName=a04exx
