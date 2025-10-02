@@ -10,8 +10,6 @@ $(call inherit-product, device/samsung/mt6765-common/mt6765.mk)
 # Setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
-TARGET_IS_WIFI-ONLY := false
-
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1600
 TARGET_SCREEN_WIDTH := 720
